@@ -34,6 +34,9 @@ To gain meaningful insights, I focused on the following key performance indicato
 - Pivot Charts for clear visual representation.
 - Slicers & Filters to enhance interactivity.
 - Consolidated all insights into a single dashboard for quick decision-making.
+## Dashboard
+![Vrinda Store Dashboard Image](https://github.com/user-attachments/assets/cb7f7b68-fa64-47e6-86de-bf55e4844be9)
+
 ## 📊 Project Insights & Key Findings
 - ✅ Women are more likely to buy compared to men (~65%)
 - ✅ Maharashtra, Karnataka and Uttar Pradesh are top 3 states (~35%)
