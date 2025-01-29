@@ -34,7 +34,7 @@ To gain meaningful insights, I focused on the following key performance indicato
 - Pivot Charts for clear visual representation.
 - Slicers & Filters to enhance interactivity.
 - Consolidated all insights into a single dashboard for quick decision-making.
-## Dashboard
+## 📈 Dashboard
 ![Vrinda Store Dashboard Image](https://github.com/user-attachments/assets/cb7f7b68-fa64-47e6-86de-bf55e4844be9)
 
 ## 📊 Project Insights & Key Findings
