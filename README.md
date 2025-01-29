@@ -17,7 +17,6 @@ To gain meaningful insights, I focused on the following key performance indicato
 - 6️⃣ Relation between age and gender based on number of orders
 - 7️⃣ Which channel is contributing to maximum sales?
 - 8️⃣ Highest selling category?
-- 📊 Dashboard Interaction <a href="[D:\excel files\Dashboards\Vrinda Store Dashboard Image.png](https://github.com/Jasmikapeddada/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Dashboard%20Image.png?raw=true)">View Dashboard</a>
 ## 🛠️ Process: Steps Taken
 ### 1️⃣ Data Collection & Import
 - Extracted the Vrinda Store Sales Database into an Excel workbook.
