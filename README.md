@@ -1,2 +1,5 @@
-# Vrinda-Store-Data-Analysis-Dashboard
-This Project involves analysing "Vrinda Store's sales" data for 2022 using Excel. The goal is to extract meaningful insights to improve business decisions for 2023. The process includes data cleaning, preprocessing, analysis, visualization, and dashboard creation.
+# Vrinda Store Dashboard - Excel Project
+📌 Project Name: Vrinda Store Sales Analysis Dashboard
+📌 Tools Used: Microsoft Excel (Pivot Tables, Charts, Slicers, Data Cleaning)
+📌 Dataset: Vrinda Store Sales Data (Annual Sales Report for 2022)
+📌 Project Type: Data Analysis & Visualization
