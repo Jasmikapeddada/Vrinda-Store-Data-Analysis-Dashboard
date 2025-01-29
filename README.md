@@ -29,7 +29,7 @@ To gain meaningful insights, I focused on the following key performance indicato
 - Performed descriptive analysis on sales trends, profit margins, and customer segmentation.
 - Created pivot tables to summarize revenue, profit, sales by category, and top-selling products.
 ### 4️⃣ Data Visualization & Dashboard Creation
-- Designed an interactive Excel dashboard using:
+#### Designed an interactive Excel dashboard using:
 - Pivot Tables to organize sales data.
 - Pivot Charts for clear visual representation.
 - Slicers & Filters to enhance interactivity.
