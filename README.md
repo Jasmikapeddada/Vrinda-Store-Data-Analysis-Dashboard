@@ -5,7 +5,7 @@
 📌 Project Type: Data Analysis & Visualization
 ## 🎯 Project Objective
 The goal of this project is to analyze the sales performance of Vrinda Store for the year 2022, identify key business insights, and provide actionable recommendations for 2023. The dashboard serves as a comprehensive sales report, helping the business make data-driven decisions.
-## 📊 Dataset Used
+## 📗 Dataset Used
 - <a href="https://bit.ly/3X381ok">Vrinda Store Sales Dashboard</a>
 ## 🔍 Key Questions (KPIs) Addressed
 To gain meaningful insights, I focused on the following key performance indicators (KPIs):
@@ -16,7 +16,8 @@ To gain meaningful insights, I focused on the following key performance indicato
 - 5️⃣ List top 5 states contributing to the sales?
 - 6️⃣ Relation between age and gender based on number of orders
 - 7️⃣ Which channel is contributing to maximum sales?
-- 8️⃣Highest selling category?
+- 8️⃣ Highest selling category?
+- 📊 Dashboard Interaction <a href="D:\excel files\Dashboards\Vrinda Store Dashboard Image.png">View Dashboard</a>
 ## 🛠️ Process: Steps Taken
 ### 1️⃣ Data Collection & Import
 - Extracted the Vrinda Store Sales Database into an Excel workbook.
